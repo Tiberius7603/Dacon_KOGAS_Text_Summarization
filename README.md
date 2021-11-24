@@ -29,3 +29,5 @@ Pre-trained Model : https://huggingface.co/gogamza/kobart-base-v2
 Training source : AIhub's Text summarization dataset   
 Test dataset : Dacon KOGAS summarization competition test dataset   
    
+Work in Progress:   
+Fine tuning on kobart-summarization(pre-trained model)   
