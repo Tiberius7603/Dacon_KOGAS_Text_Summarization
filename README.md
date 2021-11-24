@@ -1,13 +1,16 @@
 # Dacon_KOGAS_Text_Summarization   
    
-This is temporary format.   
+This is temporary format for recording project.   
 After competition, i will rewrite it with more details.   
 
 Competition Deadline : 12/10/21   
    
 Code will be uploaded after competiton and modularization      
    
-Current Rank (11/24/21 updated) : 8/103 7/103 8/103 ( F-1 scores of ROUGE-1, ROUGE-2, ROUGE-L) and 8/36 7/36 8/36 ( Team score > default(0.0002))   
+Current Rank (11/24/21 updated) :    
+8/103 7/103 8/103 ( F-1 scores of ROUGE-1, ROUGE-2, ROUGE-L)   
+8/36 7/36 8/36 ( Team score > default(0.0002))   
+   
 ![image](https://user-images.githubusercontent.com/28786204/143210805-d913edc8-0723-4de8-8f73-55dc32b95012.png)   
    
 I use 18000 of training datas that sequence length is lower than 1024 extracted from training source   
